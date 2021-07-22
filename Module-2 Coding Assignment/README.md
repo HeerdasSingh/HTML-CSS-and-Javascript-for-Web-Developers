@@ -1,3 +1,3 @@
 # Module-2 Coding Assignment
 
-Want to see the output, [Click Here](https://github.com/HeerdasSingh/HTML-CSS-and-Javascript-for-Web-Developers/blob/master/Module-2%20Coding%20Assignment/index.html)
+Want to see the output, [Click Here](https://HeerdasSingh.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
