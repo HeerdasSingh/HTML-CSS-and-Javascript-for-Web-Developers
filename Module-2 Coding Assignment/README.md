@@ -1,3 +1,4 @@
-HTML-CSS-and-Javascript-for-Web-Developers
+Module-2 Coding Assignment
 
-This repository contains the source codes of all the module assignments that are there in the Coursera named HTML, CSS and Javascript for Web Developers.
+Output:-
+file:///C:/Users/Purva%20Thota/Desktop/New%20folder/index.html
